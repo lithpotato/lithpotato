@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lithpotato
+- 👋 Hi, I’m @milesstepleton
 - 👀 I’m interested in databases and data science
 - 🌱 I’m currently learning database development
 - 📫 miles.stepleton@gmail.com
